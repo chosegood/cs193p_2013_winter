@@ -1,4 +1,4 @@
-cs193p_2013_winter
+CS193P 2013 Winter
 ==================
 
-Stanford cs193p assignments
+Stanford CS193p (http://www.stanford.edu/class/cs193p) assignments
